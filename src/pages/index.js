@@ -12,7 +12,7 @@ export default function Home() {
           className="w-full h-full object-cover absolute inset-0"
         />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white bg-black bg-opacity-50">
-          <h1 className="text-4xl md:text-6xl font-bold">Memory Game</h1>
+         
         </div>
       </div>
     </div>
