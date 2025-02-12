@@ -13,7 +13,7 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "^3.4.0",
-    "react-icons": "latest" // 추가
+    "react-icons": "latest"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
