@@ -13,7 +13,7 @@
 // }
 
 import Link from 'next/link'
-import { FiHome, FiPlay } from 'react-icons/fi'; // FontAwesome 대신 Feather Icons 사용
+import { FiHome, FiPlay } from 'react-icons/fi'; // Feather Icons 사용
 
 function Header() {
   return (
