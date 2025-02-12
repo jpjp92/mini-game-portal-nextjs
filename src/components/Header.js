@@ -12,9 +12,8 @@
 //   );
 // }
 
-// export default Header;
 import Link from 'next/link'
-import { FaHome, FaGamepad } from 'react-icons/fa';
+import { FiHome, FiPlay } from 'react-icons/fi'; // FontAwesome 대신 Feather Icons 사용
 
 function Header() {
   return (
@@ -22,10 +21,10 @@ function Header() {
       <h1 className="text-2xl font-bold text-gray-800">🎮 Mini Game</h1>
       <div className="space-x-4">
         <Link href="/" className="text-gray-600 hover:text-blue-500">
-          <FaHome size={24} />
+          <FiHome size={24} />
         </Link>
         <Link href="/games" className="text-gray-600 hover:text-blue-500">
-          <FaGamepad size={24} />
+          <FiPlay size={24} />
         </Link>
       </div>
     </nav>
