@@ -37,13 +37,8 @@ export default function Home() {
               alt="게임 포털 배너" 
               className="w-full object-cover"
               style={{ maxHeight: "500px" }}
-            />
-            // <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-40">
-            //   <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">MEMORY GAME</h1>
-            //   <Link href="/games" className="px-6 py-3 bg-green-500 hover:bg-green-600 text-white font-bold rounded-lg transition-colors">
-            //     게임 시작하기
-            //   </Link>
-            // </div>
+            >
+
           </div>
         </div>
       </main>
