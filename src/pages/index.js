@@ -37,7 +37,7 @@ export default function Home() {
               alt="게임 포털 배너" 
               className="w-full object-cover"
               style={{ maxHeight: "500px" }}
-            >
+            />
 
           </div>
         </div>
